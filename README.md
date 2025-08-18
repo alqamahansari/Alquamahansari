@@ -1,46 +1,33 @@
-# Hi, I'm Mohammad Alquamah Ansari 👋
+# Hi, I'm Mohammad Alquamah Ansari
 
-🎓 Final Year B.Sc. (Hons.) Artificial Intelligence Student  
-📊 Completed Data Analytics Internship @ ULearn  
-🧠 Passionate about AI, Machine Learning, Data Analytics, and Automation  
-📍 Based in India | Open to Internships & Entry-Level Opportunities
+Final-year **B.Sc. Artificial Intelligence** student (Computer Science minor)  
+Passionate about **Machine Learning, Deep Learning & Data Science**  
+Building **end-to-end AI/ML applications** using free & open-source tools
 
----
 
-## 🔧 Tech Stack  
-- **Languages:** Python, JavaScript, SQL (Basic)  
-- **Tools:** Power BI, Pandas, NumPy, Matplotlib, Seaborn, OpenCV  
-- **Concepts:** Machine Learning, Deep Learning, Reinforcement Learning  
-- **Other:** GitHub, Git, Automation Anywhere, Power Query, DAX
+## Skills & Tools
 
----
+- **Languages:** Python, JavaScript, SQL  
+- **ML/DL:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow  
+- **Data Tools:** Power BI, Excel  
+- **Web Tech:** React, Node.js, Express, MongoDB, Tailwind CSS  
+- **Other:** Git/GitHub, Anaconda, Google Colab
 
-## 📌 Highlight Projects
 
-### 🔹 [Air Quality Index Dashboard (Power BI)]
-> Power BI dashboard analyzing India's AQI from 2015–2024 using slicers, bar, line, matrix, and card visuals.
+## Featured Projects
 
-### 🔹 [Emotion Detection System](https://github.com/Alquamahansari/Emotion-Detection-System)
-> Real-time facial emotion recognition using CNN and OpenCV.
+- **air-quality-dashboard** — Interactive Power BI dashboard visualizing air quality trends and insights
+- **alqamahansari.github.io** — Personal portfolio website showcasing projects and skills
+- **atmos** — Real-time weather dashboard built using JavaScript APIs
+- **Emotion-Detection-System** — ML system detecting emotions from facial expressions, text, or audio
+- **Maharajas-Feast** — Android app in Java for restaurant ordering and menu management
+- **STORE-RATING-APP** — TypeScript app for rating and reviewing stores with an interactive interface
 
-### 🔹 [YouTube Video Downloader App](https://github.com/Alquamahansari/youtube-downloader)
-> Python GUI app using tkinter to download YouTube videos in multiple formats.
+## Connect with Me
 
-### 🔹 [CGPA Calculator Web App](https://github.com/Alquamahansari/cgpa-calculator)
-> JavaScript-based GPA calculator for academic tracking.
+- Portfolio: [alqamahansari.github.io](https://alqamahansari.github.io/)
+- LinkedIn: [linkedin.com/in/alqamahansari](https://linkedin.com/in/alqamahansari)
+- Email: alquamahansari@gmail.com
 
----
 
-## 📈 GitHub Stats
-
-![Alquamahansari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alquamahansari&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alquamahansari&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mohammad-alquamah-ansari)  
-- [GitHub](https://github.com/Alquamahansari)  
-- [Email](mailto:alquamahansari@gmail.com)
-
+*Always open to opportunities where I can apply AI & Data Science to solve real-world problems.*
