@@ -16,7 +16,7 @@
 
 ## 🎯 Skills
 
-### Languages & Frameworks
+### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,react,mongodb,sqlite,flask&theme=dark" />
 </p>
